@@ -158,18 +158,12 @@ disableHugoGeneratorInject = false
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-  [languages.de]
-    subtitle  = "Deutscher Penetration Testing Blog"
-    homeSubtitle = "IT-Sicherheit Werkstudent @ Hackmanit GmbH"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name       = "About"
+      url        = "about/"
+    [[languages.en.menu.main]]
+      identifier = "posts"
+      name       = "Posts"
+      url        = "posts/"

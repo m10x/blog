@@ -6,28 +6,28 @@ aliases = ["about-us","about-hugo","contact"]
   name = "m10x"
 +++
 
-Willkommen, mein Name ist Maximilian Hildebrand, ich bin 23 Jahre alt und studiere Informatik an der TU Dortmund.
+Welcome, my name is Maximilian Hildebrand aka m10x, I'm 23 years old and study computer science @ TU Dortmund.
 
-Mein Hobby ist die IT-Security. Ich mache gerne Capture The Flags / Wargames und versuche, zu so vielen wie möglich, gut nachvollziehbare WriteUps zu machen.
+My hobby is IT-Security. I like to compete at Capture The Flags and I try to do short but understandable Videos and WriteUps.
 
-Ich benutze die Artikel als Wiederholung von dem, was ich gemacht habe und habe die Hoffnung, dass es die ein oder andere Person gibt, die meine Artikel oder Teile davon als hilfreich empfindet.
+I do this as repetiotion and hope that some of you might find them useful!
 
-Bei [HackTheBox](https://www.hackthebox.eu/home/users/profile/19366) habe ich meine meiste Zeit verbracht und den Rang Pro Hacker erreicht, mit ~50 Owned Systems.
+I've spend most my time @ [HackTheBox](https://www.hackthebox.eu/home/users/profile/19366) and achieved the rank Pro Hacker with ~50 Owned Systems.
 
-**Hauptinteressen**
+**Interests**
 
-* Web application vulnerabilities
+* Web application vulnerabilities and penetration tests
 * Network service vulnerabilities
 * Privilege Escalation
-* Ich versuche mich aber auch in anderen Gebieten wie Wi-Fi Vulnerabilities, Social Engineering, Reverse Engineering, Cryptographie, Steganographie u.m.
+* I occasionally dabble with Wi-Fi Vulnerabilities, Social Engineering, Reverse Engineering, Cryptographie, Steganographie...
 
-**Programmiersprachen**
+**Programming languages**
 
 * Go
 * Python
 * C#
 * Java
 
-**Zertifikate**
+**Certificates**
 
 * eLearnSecurity Junior Penetration Tester (eJPT)
