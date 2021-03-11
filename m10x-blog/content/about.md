@@ -31,3 +31,4 @@ I've spend most my time @ [HackTheBox](https://www.hackthebox.eu/home/users/prof
 **Certificates**
 
 * eLearnSecurity Junior Penetration Tester (eJPT)
+* soon: eLearnSecurity Web Application Penetration Tester eXtreme (eWAPTXv2)
