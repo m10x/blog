@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/m10x/m10x.github.io.git
+	branch = main
+[submodule "m10x-blog/public"]
+	path = m10x-blog/public
+	url = https://github.com/m10x/m10x.github.io.git
+	branch = main
