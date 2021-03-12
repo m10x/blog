@@ -6,7 +6,7 @@ aliases = ["about-us","about-hugo","contact"]
   name = "m10x"
 +++
 
-Welcome, my name is Maximilian Hildebrand aka m10x, I'm 23 years old and I study computer science @ TU Dortmund.
+My name is Maximilian Hildebrand aka m10x, I'm 23 years old and I study computer science @ TU Dortmund.
 
 My hobby is IT-Security. I like to compete at Capture The Flags and I try to do short but understandable Videos and WriteUps.
 
