@@ -60,6 +60,7 @@ func main() {
 
 
 	git submodule add git@github.com:m10x/m10x.github.io.git public
+	git submodule add git@github.com:rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
 	*/
 
 	out, err = exec.Command("git", "-C", "public", "add", "-A").Output()
