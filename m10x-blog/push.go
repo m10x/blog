@@ -62,7 +62,7 @@ func main() {
 	git submodule add git@github.com:m10x/m10x.github.io.git public
 	*/
 
-	out, err = exec.Command("git", "-C", "public/", "add", "-A").Output()
+	out, err = exec.Command("git", "-C", "public", "add", "-A").Output()
 	if err != nil {
 		log.Fatal("git add: ", err)
 	}
