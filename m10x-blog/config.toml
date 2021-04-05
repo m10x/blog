@@ -1,4 +1,4 @@
-baseURL = "https://m10x.github.io/"
+baseURL = "/"
 title   = "Maximilian Hildebrand"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -10,8 +10,8 @@ paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-# googleAnalytics = ""
-# disqusShortname = ""
+# googleAnalytics = "UA-114772594-1"
+# disqusShortname = "m10x"
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -137,7 +137,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "email"
-    url  = "mailto:admin@m10x.de"
+    url  = "mailto:m10x@posteo.de"
 
   [[params.social]]
     name = "github"
@@ -154,7 +154,7 @@ disableHugoGeneratorInject = false
 [languages]
   [languages.en]
     subtitle  = "German Penetration Testing Blog"
-    homeSubtitle = "IT-Security Working Student @ Hackmanit GmbH"
+    homeSubtitle = "German IT-Security Working Student"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
