@@ -12,22 +12,19 @@ import (
 
 func main() {
 
+	strThemeURL := "https://github.com/rhazdon/hugo-theme-hello-friend-ng.git"
 	strTheme := "hello-friend-ng"
 	strThemePath := "themes/" + strTheme
 
 	fmt.Println("----- 0) Updating theme")
 
-	out, err := exec.Command("git", "-C", strThemePath, "fetch", "origin").Output()
-	if err != nil {
-		log.Fatal("git fetch: ", err)
-	}
-	fmt.Println("Fetch:", string(out))
+	os.RemoveAll("themes")
 
-	out, err = exec.Command("git", "-C", strThemePath, "reset", "--hard", "origin/master").Output()
+	out, err := exec.Command("git", "clone", strThemeURL, strThemePath).Output()
 	if err != nil {
-		log.Fatal("git reset: ", err)
+		log.Fatal("git clone: ", err)
 	}
-	fmt.Println("Reset:", string(out))
+	fmt.Println("Git Clone:", string(out))
 
 	fmt.Println("----- 0) Finished")
 

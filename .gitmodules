@@ -1,0 +1,3 @@
+[submodule "m10x-blog/public"]
+	path = m10x-blog/public
+	url = git@github.com:m10x/m10x.github.io.git
