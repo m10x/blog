@@ -1,0 +1,3 @@
+[submodule "m10x-blog/themes/hello-friend-ng"]
+	path = m10x-blog/themes/hello-friend-ng
+	url = git@github.com:rhazdon/hugo-theme-hello-friend-ng.git
