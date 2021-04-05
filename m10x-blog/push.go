@@ -54,6 +54,14 @@ func main() {
 
 	fmt.Println("----- 3) Pushing changes")
 
+	/* max@max-pc MINGW64 ~/Documents/git/blog/m10x-blog/public (master)
+	$ git add *
+	fatal: in unpopulated submodule 'm10x-blog/public'
+
+
+	git submodule add git@github.com:m10x/m10x.github.io.git public
+	*/
+
 	out, err = exec.Command("git", "-C", "public/", "add", "-A").Output()
 	if err != nil {
 		log.Fatal("git add: ", err)
