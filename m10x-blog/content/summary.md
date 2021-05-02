@@ -6,6 +6,10 @@ aliases = []
   name = "m10x"
 +++
 
+## Blog Posts
+
+ [**Is Your Application Vulnerable to Web Cache Poisoning?**](https://hackmanit.de/de/blog/142-is-your-application-vulnerable-to-web-cache-poisoning)
+
 ## CTFs
 
 **Defend The Web**  
