@@ -14,11 +14,13 @@ func main() {
 
 	strThemeURL := "https://github.com/rhazdon/hugo-theme-hello-friend-ng.git"
 	strTheme := "hello-friend-ng"
-	strThemePath := "themes/" + strTheme
+	strBlogPath := "m10x-blog"
+	strThemeFolderPath := strBlogPath + "/themes/"
+	strThemePath := strThemeFolderPath + strTheme
 
 	fmt.Println("----- 0) Updating theme")
 
-	os.RemoveAll("themes")
+	os.RemoveAll(strThemeFolderPath)
 
 	out, err := exec.Command("git", "clone", strThemeURL, strThemePath).Output()
 	if err != nil {
@@ -30,10 +32,10 @@ func main() {
 
 	fmt.Println("----- 1) Removing everything in public but dont remove CNAME")
 
-	dir, err := ioutil.ReadDir("public")
+	dir, err := ioutil.ReadDir(strBlogPath + "/public")
 	for _, d := range dir {
 		if d.Name() != "CNAME" {
-			os.RemoveAll(path.Join([]string{"public", d.Name()}...))
+			os.RemoveAll(path.Join([]string{strBlogPath + "/public", d.Name()}...))
 		}
 	}
 
@@ -41,7 +43,7 @@ func main() {
 
 	fmt.Println("----- 2) Running hugo")
 
-	out, err = exec.Command("./hugo", "-t", strTheme).Output()
+	out, err = exec.Command(strBlogPath+"/hugo", "-t", strTheme).Output()
 	if err != nil {
 		log.Fatal("hugo: ", err)
 	}
@@ -60,7 +62,7 @@ func main() {
 	git submodule add git@github.com:rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
 	*/
 
-	out, err = exec.Command("git", "-C", "public", "add", "-A").Output()
+	out, err = exec.Command("git", "-C", strBlogPath+"public", "add", "-A").Output()
 	if err != nil {
 		log.Fatal("git add: ", err)
 	}
@@ -73,13 +75,13 @@ func main() {
 		log.Fatal("enter message: ", err)
 	}
 
-	out, err = exec.Command("git", "-C", "public", "commit", "-m", text).Output()
+	out, err = exec.Command("git", "-C", strBlogPath+"public", "commit", "-m", text).Output()
 	if err != nil {
 		log.Fatal(err)
 	}
 	fmt.Println("Git Commit:", string(out))
 
-	out, err = exec.Command("git", "-C", "public", "push").Output()
+	out, err = exec.Command("git", "-C", strBlogPath+"public", "push").Output()
 	if err != nil {
 		log.Fatal("git push: ", (err))
 	}
