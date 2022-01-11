@@ -10,8 +10,8 @@ paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-googleAnalytics = "UA-114772594-1"
-disqusShortname = "m10x"
+# googleAnalytics =
+# disqusShortname = # alternativen: https://gohugo.io/content-management/comments/#readout
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -32,6 +32,9 @@ disableRSS     = false
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
+
+lastModDisplay = "Modified:"
+showReadingTime = true
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
@@ -137,7 +140,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "email"
-    url  = "mailto:m10x@posteo.de"
+    url  = "mailto:website@m10x.de"
 
   [[params.social]]
     name = "github"
