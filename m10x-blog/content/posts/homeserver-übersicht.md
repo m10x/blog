@@ -19,7 +19,7 @@ Dementsprechend fange ich diese Übersicht mit der Software an, welche ich alle 
 ### Caddy (Reverse Proxy)
 ### Syncthing (Backup)
 ### UptimeKuma, Dashy, Grafana (Monitoring)
-### Photoprism (Foto Appolikation)
+### Photoprism (Foto Applikation)
 ### Mealie (Rezeptesammlung)
 ### Diverse VMs bzw LXC Container zum Testen und Herumprobieren
 bspw. Kali Linux VM/Container
@@ -30,11 +30,11 @@ bspw. Kali Linux VM/Container
 * ...
 
 ## Hardware
-### CPU: 
-### Mainboard:
-### RAM:
-### GPU:
-### SSD:
+### CPU: (ECC support)
+### Mainboard: (ECC support, 2,5G LAN)
+### RAM: (ECC)
+### GPU: (Low Power Consumption, Transcoding)
+### SSD: (SEC Opal Encryption, Power Loss Prevention)
 ### HDDs:
-### Netzteil
-### Gehäuse:
+### Netzteil: (High Efficiency auch bei niedriger Wattzahl)
+### Gehäuse: (Guter Formfaktor, genug Platz, gut zu warten)
