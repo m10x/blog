@@ -6,7 +6,11 @@ aliases = []
   name = "m10x"
 +++
 
+A collection of my public infosec related stuff.
+
 ## Blog Posts
+
+[**How to Secure APIs?**](https://hackmanit.de/de/blog/155-how-to-secure-apis)
 
 [**Web Cache Vulnerability Scanner (WCVS) - Free, Customizable, Easy-To-Use**](https://hackmanit.de/de/blog/145-web-cache-vulnerability-scanner-wcvs-free-customizable-easy-to-use)
 
@@ -16,24 +20,17 @@ aliases = []
 
 [**Web Cache Vulnerability Scanner**](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner)
 
-## CTFs
-
-**Defend The Web**  
-Videos: coming soon™
-
-**PicoCTF**  
-Videos: coming soon™
+## CTF WriteUps & Videos
 
 **OWASP Juice Shop**  
 [Videos: 22](https://www.youtube.com/playlist?list=PL0KsKbv1Ukpk79b5VYqMuLK9HWCljcAHV)
 
 **HackTheBox**  
-[Videos: 33 (+2 in preperation)](https://www.youtube.com/playlist?list=PL0KsKbv1UkpkzTS70KZMBUW2gLrgZMHOW)  
-[WriteUps: 9 (+22 in preperation)](https://www.m10x.de/tags/hackthebox/)
+[Videos: 33](https://www.youtube.com/playlist?list=PL0KsKbv1UkpkzTS70KZMBUW2gLrgZMHOW)  
+[WriteUps: 9 (+22 still not finalized)](https://www.m10x.de/tags/hackthebox/)
 
 **Practical Pentest Labs**  
-[Videos: 2](https://www.youtube.com/playlist?list=PL0KsKbv1Ukpm_GMLj16e9-2o_iKS43LrN)  
-WriteUps: 0 (+2 in preperation)  
+[Videos: 2](https://www.youtube.com/playlist?list=PL0KsKbv1Ukpm_GMLj16e9-2o_iKS43LrN)    
 
 **PicoCTF 2017**  
 [Videos: 2](https://www.youtube.com/playlist?list=PL0KsKbv1UkplCAgvdGutxQ12NMWlMy30q)
