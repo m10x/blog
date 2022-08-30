@@ -1,0 +1,3 @@
+cd ~/Documents/git/blog/m10x-blog && find ./public/ -not -name "CNAME" -delete && hugo -b "https://www.m10x.de" -t "hello-friend-ng" && git add * && git commit -m "update" && git push
+
+cd ~/Documents/git/m10x.github.io && rm -f -R * && cp -r ~/Documents/git/blog/m10x-blog/public/* . && git add * && git commit -m "update" && git push
