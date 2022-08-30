@@ -41,7 +41,8 @@ I've spend most my time @ [HackTheBox](https://www.hackthebox.eu/home/users/prof
 * Java
 
 **Hobbys**
-* Selfhosting various services (some Dockerized, Caddy as Reverse Proxy, Proxmox for Virtualization)
+* Selfhosting various services (utilizing Proxmox and Docker for Virtualization, Caddy as Reverse Proxy)
 * Creating and hacking AD labs
+* CTFs
 * Lockpicking
 * Weightlifting
