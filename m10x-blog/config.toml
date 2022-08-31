@@ -151,7 +151,7 @@ showReadingTime = true
   # Uncomment this to enable Commento.
   #
   [params.commento]
-      url = "https://commento-105.kirlia.de/"
+      url = "https://commento-105.kirlia.de/js/commento.js"
 
   # Uncomment this if you want a portrait on your start page
   #
