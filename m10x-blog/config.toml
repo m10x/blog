@@ -150,8 +150,8 @@ showReadingTime = true
   # A better internet.
   # Uncomment this to enable Commento.
   #
-  # [params.commento]
-  #   url = ""
+  [params.commento]
+      url = "https://commento-105.kirlia.de/"
 
   # Uncomment this if you want a portrait on your start page
   #
