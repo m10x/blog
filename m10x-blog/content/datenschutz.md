@@ -7,8 +7,12 @@ aliases = ["gdpr","privacy","dsgvo"]
 +++
 
 Ich nehme Datenschutz sehr ernst, weshalb es ein wichtiges Anliegen von mir ist, dass mein Blog so wenig personenbezogene Daten wie moeglich sammelt! (Stichwort Datensparsamkeit)
+
 Es sind keine Tracker eingebunden und es werden (bis auf eine einzelne Ausnahme, und zwar, wenn sich bei der Kommentarfunktion eingeloggt/registriert wird) keine Cookies verwendet.
-Der Blog wird durch [Hugo](https://gohugo.io/) statisch generiert und auf meinem eigenen Homeserver gehostet. Abgesehen von anonymisierten IP-Adressen, technischen Details wie bspw. Browserinformationen werden keine Besucherinformationen gespeichert.
+
+Der Blog wird durch [Hugo](https://gohugo.io/) statisch generiert und auf meinem eigenen Homeserver gehostet. 
+
+Abgesehen von anonymisierten IP-Adressen, technischen Details wie bspw. Browserinformationen werden keine Besucherinformationen gespeichert.
 
 ## Commento (Kommentarfunktion)
 Die Kommentarfunktion wird von einer selbstgehosteten Version von [Commento++](https://github.com/souramoo/commentoplusplus) realisiert. Hier gibt es die Moeglichkeit anonym Kommentare zu posten.
