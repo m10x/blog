@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 11 Jul 2022 01:01:56 +0100</lastBuildDate><atom:link href="https://www.m10x.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Sep 2022 01:01:56 +0100</lastBuildDate><atom:link href="https://www.m10x.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(External: Redirect to hackmanit.de) BOLA - The #1 most critical API risk exemplified</title>
+      <link>https://www.m10x.de/posts/2022/09/external-redirect-to-hackmanit.de-bola-the-#1-most-critical-api-risk-exemplified/</link>
+      <pubDate>Wed, 21 Sep 2022 01:01:56 +0100</pubDate>
+      
+      <guid>https://www.m10x.de/posts/2022/09/external-redirect-to-hackmanit.de-bola-the-#1-most-critical-api-risk-exemplified/</guid>
+      <description>Normalerweise, haette der Redirect funktionieren sollen&amp;hellip; Naja, hier ist der Link zum Blogartikel:
+https://hackmanit.de/de/blog/156-bola-api-risk</description>
+    </item>
+    
     <item>
       <title>(External: Redirect to hackmanit.de) How to Secure APIs?</title>
       <link>https://www.m10x.de/posts/2022/07/external-redirect-to-hackmanit.de-how-to-secure-apis/</link>
@@ -116,18 +126,6 @@ Tipps Sieh dir den Seitenquelltext genau an. Wenn der Download abbricht, versuch
       <guid>https://www.m10x.de/posts/2018/02/hackthebox-mantis-writeup-tipps--anleitung/</guid>
       <description>Mantis ist eine der schwierigeren CTF Challenges von HackTheBox. Allerdings ist die Mantis relativ einfach, wenn man weiß, was man macht.
 Tipps Port 8080 ist nicht der richtige HTTP Port. Außerdem sollte eine größere Wörterliste für das Directory Bruteforcing benutzt werden. Um an User und Root zu kommen, musst du einen Exploit für die kritische Kerberos Schwachstelle MS14-068 benutzen. GoldenPac.py von Impacket, kann es dir einfacher machen. Video Anleitung Als erstes machen wir wie immer einen Nmap-Scan.</description>
-    </item>
-    
-    <item>
-      <title>HackTheBox - Shocker WriteUp | Tipps &#43; Anleitung</title>
-      <link>https://www.m10x.de/posts/2018/02/hackthebox-shocker-writeup-tipps--anleitung/</link>
-      <pubDate>Tue, 20 Feb 2018 16:41:56 +0100</pubDate>
-      
-      <guid>https://www.m10x.de/posts/2018/02/hackthebox-shocker-writeup-tipps--anleitung/</guid>
-      <description>HackTheBox - Shocker WriteUp | Tipps + Anleitung | htb Shocker ist eine der vielen Verfügbaren CTF Challenges von HackTheBox. Shocker ist eine leichte bis mittelschwere Maschine von HackTheBox.
-Tipps Der Webserver hat ein interessantes Verzeichnis mit einer Datei drin.
-Der Name der Maschine ist bei HackTheBox oft ein Tipp. Das Beitragsbild, welches ich mit meinen immensen Photoshop Sk1llz erstellt habe, ist auch ein &amp;ldquo;dezenter&amp;rdquo; Hinweis.
-Root-Rechte zu bekommen ist sehr einfach.</description>
     </item>
     
   </channel>

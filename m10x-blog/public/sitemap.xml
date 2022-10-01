@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.m10x.de/posts/2022/07/external-redirect-to-hackmanit.de-how-to-secure-apis/</loc>
-    <lastmod>2022-07-11T01:01:56+01:00</lastmod>
+    <loc>https://www.m10x.de/posts/2022/09/external-redirect-to-hackmanit.de-bola-the-#1-most-critical-api-risk-exemplified/</loc>
+    <lastmod>2022-09-21T01:01:56+01:00</lastmod>
   </url><url>
     <loc>https://www.m10x.de/tags/api/</loc>
-    <lastmod>2022-07-11T01:01:56+01:00</lastmod>
+    <lastmod>2022-09-21T01:01:56+01:00</lastmod>
   </url><url>
     <loc>https://www.m10x.de/</loc>
-    <lastmod>2022-07-11T01:01:56+01:00</lastmod>
+    <lastmod>2022-09-21T01:01:56+01:00</lastmod>
   </url><url>
     <loc>https://www.m10x.de/posts/</loc>
-    <lastmod>2022-07-11T01:01:56+01:00</lastmod>
+    <lastmod>2022-09-21T01:01:56+01:00</lastmod>
   </url><url>
     <loc>https://www.m10x.de/tags/</loc>
+    <lastmod>2022-09-21T01:01:56+01:00</lastmod>
+  </url><url>
+    <loc>https://www.m10x.de/posts/2022/07/external-redirect-to-hackmanit.de-how-to-secure-apis/</loc>
     <lastmod>2022-07-11T01:01:56+01:00</lastmod>
   </url><url>
     <loc>https://www.m10x.de/posts/2021/10/external-redirect-to-hackmanit.de-web-cache-vulnerability-scanner-wcvs-free-customizable-easy-to-use/</loc>
