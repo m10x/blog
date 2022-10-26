@@ -78,10 +78,11 @@ Abgesehen von anonymisierten IP-Adressen, technischen Details wie bspw.</descrip
       
       <guid>https://www.m10x.de/summary/</guid>
       <description>A collection of my public infosec related stuff.
-Blog Posts How to Secure APIs?
+Tools Web Cache Vulnerability Scanner
+Blog Posts BOLA - The #1 most critical API risk exemplified
+How to Secure APIs?
 Web Cache Vulnerability Scanner (WCVS) - Free, Customizable, Easy-To-Use
 Is Your Application Vulnerable to Web Cache Poisoning?
-Tools Web Cache Vulnerability Scanner
 CTF WriteUps &amp;amp; Videos OWASP Juice Shop
 Videos: 22
 HackTheBox
@@ -89,10 +90,7 @@ Videos: 33
 WriteUps: 9 (+22 still not finalized)
 Practical Pentest Labs
 Videos: 2
-PicoCTF 2017
-Videos: 2
-HackThis!! (now: Defend the Web)
-Videos: 1</description>
+PicoCTF 2017</description>
     </item>
     
     <item>

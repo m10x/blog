@@ -27,10 +27,11 @@ I've spend most my time @ [HackTheBox](https://www.hackthebox.eu/home/users/prof
 
 **Certificates**
 
+* Practical Network Penetration Tester (PNPT)
 * eLearnSecurity Mobile Application Penetration Tester (eMAPT)
 * eLearnSecurity Junior Penetration Tester (eJPT)
-* working on: Practical Network Penetration Tester (PNPT)
 * working on: eLearnSecurity Web Application Penetration Tester (eWAPT)
+* working on: Burp Suite Certified Practitioner (BSCP)
 
 **Programming languages**  
 [I've use(d) the most and done projects with]

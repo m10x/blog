@@ -8,17 +8,19 @@ aliases = []
 
 A collection of my public infosec related stuff.
 
+## Tools
+
+[**Web Cache Vulnerability Scanner**](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner)
+
 ## Blog Posts
+
+[**BOLA - The #1 most critical API risk exemplified**](https://hackmanit.de/de/blog/156-bola-api-risk)
 
 [**How to Secure APIs?**](https://hackmanit.de/de/blog/155-how-to-secure-apis)
 
 [**Web Cache Vulnerability Scanner (WCVS) - Free, Customizable, Easy-To-Use**](https://hackmanit.de/de/blog/145-web-cache-vulnerability-scanner-wcvs-free-customizable-easy-to-use)
 
 [**Is Your Application Vulnerable to Web Cache Poisoning?**](https://hackmanit.de/de/blog/142-is-your-application-vulnerable-to-web-cache-poisoning)
-
-## Tools
-
-[**Web Cache Vulnerability Scanner**](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner)
 
 ## CTF WriteUps & Videos
 
