@@ -27,13 +27,12 @@ I've spend most my time @ [HackTheBox](https://www.hackthebox.eu/home/users/prof
 
 **Certificates**
 
+* eLearnSecurity Web Application Penetration Tester Extreme v2 (eWAPTXv2)
 * Practical Network Penetration Tester (PNPT)
 * eLearnSecurity Mobile Application Penetration Tester (eMAPT)
 * eLearnSecurity Junior Penetration Tester (eJPT)
-* working on: eLearnSecurity Web Application Penetration Tester (eWAPT)
-* working on: Burp Suite Certified Practitioner (BSCP)
 
-**Programming languages**  
+**Programming languages**
 [I've use(d) the most and done projects with]
 
 * Go
@@ -47,3 +46,6 @@ I've spend most my time @ [HackTheBox](https://www.hackthebox.eu/home/users/prof
 * CTFs
 * Lockpicking
 * Weightlifting
+
+**PGP Key**
+[keys.mailvelope.com](https://keys.mailvelope.com/pks/lookup?op=get&search=website%40m10x.de)
