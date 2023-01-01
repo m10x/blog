@@ -167,7 +167,7 @@ showReadingTime = true
 
   [[params.social]]
     name = "email"
-    url  = "mailto:website@m10x.de"
+    url  = "https://keys.mailvelope.com/pks/lookup?op=get&search=website@m10x.de"
 
   [[params.social]]
     name = "github"
