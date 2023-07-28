@@ -10,9 +10,16 @@ A collection of my public infosec related stuff.
 
 ## Tools
 
+**Template Injection Scanner**: coming soon (september 23)
 [**Web Cache Vulnerability Scanner**](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner)
 
+## Thesis
+
+[**Bachelor's Thesis: Automated Scanning for Web Cache Poisoning Vulnerabilities**](https://hackmanit.de/images/download/thesis/Automated-Scanning-for-Web-Cache-Poisoning-Vulnerabilities.pdf)
+
 ## Blog Posts
+
+[**Multi-Factor Authentication (MFA) - Comparison of the 5 Most Used Possession Factors**](https://hackmanit.de/de/blog/162-what-is-mfa)
 
 [**BOLA - The #1 most critical API risk exemplified**](https://hackmanit.de/de/blog/156-bola-api-risk)
 

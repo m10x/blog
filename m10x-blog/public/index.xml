@@ -78,19 +78,13 @@ Abgesehen von anonymisierten IP-Adressen, technischen Details wie bspw.</descrip
       
       <guid>https://www.m10x.de/summary/</guid>
       <description>A collection of my public infosec related stuff.
-Tools Web Cache Vulnerability Scanner
-Blog Posts BOLA - The #1 most critical API risk exemplified
+Tools Template Injection Scanner: coming soon (september 23) Web Cache Vulnerability Scanner
+Thesis Bachelor&amp;rsquo;s Thesis: Automated Scanning for Web Cache Poisoning Vulnerabilities
+Blog Posts Multi-Factor Authentication (MFA) - Comparison of the 5 Most Used Possession Factors
+BOLA - The #1 most critical API risk exemplified
 How to Secure APIs?
 Web Cache Vulnerability Scanner (WCVS) - Free, Customizable, Easy-To-Use
-Is Your Application Vulnerable to Web Cache Poisoning?
-CTF WriteUps &amp;amp; Videos OWASP Juice Shop
-Videos: 22
-HackTheBox
-Videos: 33
-WriteUps: 9 (+22 still not finalized)
-Practical Pentest Labs
-Videos: 2
-PicoCTF 2017</description>
+Is Your Application Vulnerable to Web Cache Poisoning?</description>
     </item>
     
     <item>
