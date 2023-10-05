@@ -64,7 +64,7 @@ showReadingTime = true
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Pentester @ G DATA Advanced Analytics GmbH"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -184,7 +184,7 @@ showReadingTime = true
 [languages]
   [languages.en]
     subtitle  = "German Penetration Testing Blog"
-    homeSubtitle = "German IT-Security Working Student"
+    homeSubtitle = "German Penetration Tester"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 

@@ -4,10 +4,49 @@
         <link>https://www.m10x.de/posts/</link>
         <description>Recent content in Posts on Maximilian Hildebrand</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
+        <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Wed, 21 Sep 2022 01:01:56 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 01:01:56 +0100</lastBuildDate>
         <atom:link href="https://www.m10x.de/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>(External: Redirect to hackmanit.de) How Does FIDO2 Try to Solve the World’s Password Problem?</title>
+            <link>https://www.m10x.de/posts/2023/09/external-redirect-to-hackmanit.de-how-does-fido2-try-to-solve-the-worlds-password-problem/</link>
+            <pubDate>Mon, 11 Sep 2023 01:01:56 +0100</pubDate>
+            
+            <guid>https://www.m10x.de/posts/2023/09/external-redirect-to-hackmanit.de-how-does-fido2-try-to-solve-the-worlds-password-problem/</guid>
+            <description>Normalerweise, haette der Redirect funktionieren sollen&amp;hellip; Naja, hier ist der Link zum Blogartikel:
+https://hackmanit.de/de/blog/165-what-is-fido2</description>
+            <content type="html"><![CDATA[<p>Normalerweise, haette der Redirect funktionieren sollen&hellip; Naja, hier ist der Link zum Blogartikel:</p>
+<p><a href="https://hackmanit.de/de/blog/165-what-is-fido2">https://hackmanit.de/de/blog/165-what-is-fido2</a></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>(External: Redirect to hackmanit.de) The New OWASP Top 10 API Security Risks 2023 – What Has Changed?</title>
+            <link>https://www.m10x.de/posts/2023/08/external-redirect-to-hackmanit.de-the-new-owasp-top-10-api-security-risks-2023-what-has-changed/</link>
+            <pubDate>Tue, 01 Aug 2023 01:01:56 +0100</pubDate>
+            
+            <guid>https://www.m10x.de/posts/2023/08/external-redirect-to-hackmanit.de-the-new-owasp-top-10-api-security-risks-2023-what-has-changed/</guid>
+            <description>Normalerweise, haette der Redirect funktionieren sollen&amp;hellip; Naja, hier ist der Link zum Blogartikel:
+https://hackmanit.de/de/blog/169-owasp-api-2023</description>
+            <content type="html"><![CDATA[<p>Normalerweise, haette der Redirect funktionieren sollen&hellip; Naja, hier ist der Link zum Blogartikel:</p>
+<p><a href="https://hackmanit.de/de/blog/169-owasp-api-2023">https://hackmanit.de/de/blog/169-owasp-api-2023</a></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>(External: Redirect to hackmanit.de) Multi-Factor Authentication (MFA) – Comparison of the 5 Most Used Possession Factors</title>
+            <link>https://www.m10x.de/posts/2023/03/external-redirect-to-hackmanit.de-multi-factor-authentication-mfa-comparison-of-the-5-most-used-possession-factors/</link>
+            <pubDate>Wed, 22 Mar 2023 01:01:56 +0100</pubDate>
+            
+            <guid>https://www.m10x.de/posts/2023/03/external-redirect-to-hackmanit.de-multi-factor-authentication-mfa-comparison-of-the-5-most-used-possession-factors/</guid>
+            <description>Normalerweise, haette der Redirect funktionieren sollen&amp;hellip; Naja, hier ist der Link zum Blogartikel:
+https://hackmanit.de/de/blog/162-what-is-mfa</description>
+            <content type="html"><![CDATA[<p>Normalerweise, haette der Redirect funktionieren sollen&hellip; Naja, hier ist der Link zum Blogartikel:</p>
+<p><a href="https://hackmanit.de/de/blog/162-what-is-mfa">https://hackmanit.de/de/blog/162-what-is-mfa</a></p>
+]]></content>
+        </item>
         
         <item>
             <title>(External: Redirect to hackmanit.de) BOLA - The #1 most critical API risk exemplified</title>
@@ -2646,14 +2685,14 @@ Sich als <strong>bandit26</strong> einzuloggen von <strong>bandit25</strong> aus
 </span></span></code></pre></div><p>Hier müssen wir einen Trick anwenden. Und zwar müssen wir das Terminal kleiner machen, damit nicht mehr der gesamte Text angezeigt werden kann. Dadurch wird das <strong>more</strong> getriggert und wir werden nicht sofort herausgeworfen. :)</p>
 <p><a href="https://imgur.com/mdcY2gQ"><img src="https://imgur.com/mdcY2gQ.jpg" alt="Terminal klein"></a></p>
 <p>Durch das drücken von <strong>v</strong> können wir den Text-Editor <a href="https://de.wikipedia.org/wiki/Vim">vim</a> öffnen. Jetzt können wir folgendes eingeben um uns das Passwort ausgeben zu lassen:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-vim" data-lang="vim"><span style="display:flex;"><span>:<span style="color:#a6e22e">e</span> <span style="color:#e6db74">/etc/</span><span style="color:#a6e22e">bandit_pass</span>/<span style="color:#a6e22e">bandit26</span><span style="color:#960050;background-color:#1e0010">
-</span></span></span></code></pre></div><p><strong>Enter</strong> drücken:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-vim" data-lang="vim"><span style="display:flex;"><span><span style="color:#ae81ff">5</span>czgV<span style="color:#ae81ff">9</span>L<span style="color:#ae81ff">3</span>Xx<span style="color:#ae81ff">8</span>JPOyRbXh<span style="color:#ae81ff">6</span>lQbmIOWvPT<span style="color:#ae81ff">6</span>Z<span style="color:#960050;background-color:#1e0010">
-</span></span></span></code></pre></div><p>Alternativ können wir uns auch eine Shell geben durch:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-vim" data-lang="vim"><span style="display:flex;"><span>:<span style="color:#a6e22e">set</span> <span style="color:#a6e22e">shell</span>=<span style="color:#e6db74">/bin/</span><span style="color:#a6e22e">bash</span><span style="color:#960050;background-color:#1e0010">
-</span></span></span></code></pre></div><p>und danach</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-vim" data-lang="vim"><span style="display:flex;"><span>:<span style="color:#a6e22e">shell</span><span style="color:#960050;background-color:#1e0010">
-</span></span></span></code></pre></div><p>Nun haben wir eine Shell.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-vim" data-lang="vim"><span style="display:flex;"><span>:<span style="color:#a6e22e">e</span> <span style="color:#e6db74">/etc/</span><span style="color:#a6e22e">bandit_pass</span>/<span style="color:#a6e22e">bandit26</span>
+</span></span></code></pre></div><p><strong>Enter</strong> drücken:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-vim" data-lang="vim"><span style="display:flex;"><span><span style="color:#ae81ff">5</span>czgV<span style="color:#ae81ff">9</span>L<span style="color:#ae81ff">3</span>Xx<span style="color:#ae81ff">8</span>JPOyRbXh<span style="color:#ae81ff">6</span>lQbmIOWvPT<span style="color:#ae81ff">6</span>Z
+</span></span></code></pre></div><p>Alternativ können wir uns auch eine Shell geben durch:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-vim" data-lang="vim"><span style="display:flex;"><span>:<span style="color:#66d9ef">set</span> <span style="color:#a6e22e">shell</span>=<span style="color:#e6db74">/bin/</span><span style="color:#a6e22e">bash</span>
+</span></span></code></pre></div><p>und danach</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-vim" data-lang="vim"><span style="display:flex;"><span>:<span style="color:#a6e22e">shell</span>
+</span></span></code></pre></div><p>Nun haben wir eine Shell.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>bandit26@bandit:~$ cat /etc/bandit_pass/bandit26
 </span></span><span style="display:flex;"><span>5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
 </span></span></code></pre></div><h2 id="level-26---level-27"><strong>Level 26 -&gt; Level 27</strong></h2>
@@ -2661,9 +2700,9 @@ Sich als <strong>bandit26</strong> einzuloggen von <strong>bandit25</strong> aus
 Der Tipp zu diesem Level ist wie folgt:<br>
 Denkt beim anmelden per SSH an das was wir im letzen Level herausgefunden haben&hellip;</p>
 <p>Damit die Verbindung nicht sofort geschlossen wird, müssen wir die letzten Schritte des vorherigen Levels wiederholen. Das Terminal klein ziehen, <strong>v</strong> drücken um <a href="https://de.wikipedia.org/wiki/Vim">vim</a> zu öffnen und dann:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-vim" data-lang="vim"><span style="display:flex;"><span>:<span style="color:#a6e22e">set</span> <span style="color:#a6e22e">shell</span>=<span style="color:#e6db74">/bin/</span><span style="color:#a6e22e">bash</span><span style="color:#960050;background-color:#1e0010">
-</span></span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010"></span>:<span style="color:#a6e22e">shell</span><span style="color:#960050;background-color:#1e0010">
-</span></span></span></code></pre></div><p>Wir haben nun wieder eine Shell. :)</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-vim" data-lang="vim"><span style="display:flex;"><span>:<span style="color:#66d9ef">set</span> <span style="color:#a6e22e">shell</span>=<span style="color:#e6db74">/bin/</span><span style="color:#a6e22e">bash</span>
+</span></span><span style="display:flex;"><span>:<span style="color:#a6e22e">shell</span>
+</span></span></code></pre></div><p>Wir haben nun wieder eine Shell. :)</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>bandit26@bandit:~$ ls -l
 </span></span><span style="display:flex;"><span>total <span style="color:#ae81ff">12</span>
 </span></span><span style="display:flex;"><span>-rwsr-x--- <span style="color:#ae81ff">1</span> bandit27 bandit26 <span style="color:#ae81ff">7296</span> Oct <span style="color:#ae81ff">16</span>  <span style="color:#ae81ff">2018</span> bandit27-do

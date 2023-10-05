@@ -6,16 +6,11 @@ aliases = ["about-us","about-hugo","contact"]
   name = "m10x"
 +++
 
-My name is Maximilian Hildebrand aka m10x and I'm pursuing a master's degree in IT-Security @ Ruhr-Universität Bochum, with a focus on web, network and SSO security.
+My name is Maximilian Hildebrand aka m10x and I'm a penetration tester @ G DATA Advanced Analytics GmbH.
 
-My hobby is IT-Security and I'm also an IT-Security working student (Web,API,SSO & Mobile Pentesting). I like to compete at Capture The Flags and I try to do short but understandable Videos and WriteUps.
+I've pursued a master's degree in IT-Security @ Ruhr-Universität Bochum, with a focus on web, network and SSO security.
 
-I do this as repetition and hope that some of you might find them useful!
-
-I've spend most my time @ [HackTheBox](https://www.hackthebox.eu/home/users/profile/19366) and achieved the rank Pro Hacker with ~50 Owned Systems.
-
-**Interests**  
-[I learn about and train]
+**Interests**
 
 * Web, SSO pentesting
 * API pentesting
@@ -27,6 +22,7 @@ I've spend most my time @ [HackTheBox](https://www.hackthebox.eu/home/users/prof
 
 **Certificates**
 
+* Offensive Security Certified Professional (OSCP)
 * eLearnSecurity Web Application Penetration Tester Extreme v2 (eWAPTXv2)
 * Practical Network Penetration Tester (PNPT)
 * eLearnSecurity Mobile Application Penetration Tester (eMAPT)
@@ -43,9 +39,6 @@ I've spend most my time @ [HackTheBox](https://www.hackthebox.eu/home/users/prof
 **Hobbys**
 * Selfhosting various services (utilizing Proxmox and Docker for Virtualization, Caddy as Reverse Proxy)
 * Creating and hacking AD labs
-* CTFs
+* CTFs ([HackTheBox](https://www.hackthebox.eu/home/users/profile/19366))
 * Lockpicking
 * Weightlifting
-
-**PGP Key**
-[keys.mailvelope.com](https://keys.mailvelope.com/pks/lookup?op=get&search=website%40m10x.de)

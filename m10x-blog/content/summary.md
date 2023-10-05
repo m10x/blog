@@ -10,15 +10,25 @@ A collection of my public infosec related stuff.
 
 ## Tools
 
-**Template Injection Scanner**: coming soon (september 23)  
+[**TInjA (Template INJection Analyzer)**](https://github.com/Hackmanit/TInjA)
+
+[**Template Injection Playground**](https://github.com/Hackmanit/template-injection-playground)
+
+[**Template Injection Table**](https://github.com/Hackmanit/template-injection-table)
 
 [**Web Cache Vulnerability Scanner**](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner)
 
 ## Thesis
 
+[**Master's Thesis: Improving the Detection and Identification of Template Engines for Large-Scale Template Injection Scanning**](https://hackmanit.de/images/download/thesis/Improving-the-Detection-and-Identification-of-Template-Engines-for-Large-Scale-Template-Injection-Scanning-Maximilian-Hildebrand-Master-Thesis-Hackmanit.pdf)
+
 [**Bachelor's Thesis: Automated Scanning for Web Cache Poisoning Vulnerabilities**](https://hackmanit.de/images/download/thesis/Automated-Scanning-for-Web-Cache-Poisoning-Vulnerabilities.pdf)
 
 ## Blog Posts
+
+[**How Does FIDO2 Try to Solve the World’s Password Problem?**](https://hackmanit.de/de/blog/165-what-is-fido2)
+
+[**The New OWASP Top 10 API Security Risks 2023 – What Has Changed?**](https://hackmanit.de/de/blog/169-owasp-api-2023)
 
 [**Multi-Factor Authentication (MFA) - Comparison of the 5 Most Used Possession Factors**](https://hackmanit.de/de/blog/162-what-is-mfa)
 
