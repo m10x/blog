@@ -26,6 +26,8 @@ A collection of my public infosec related stuff.
 
 ## Blog Posts
 
+[**Template Injection Vulnerabilities– Understand, Detect, Identify**](https://hackmanit.de/de/blog/178-template-injection-vulnerabilities-understand-detect-identify)
+
 [**How Does FIDO2 Try to Solve the World’s Password Problem?**](https://hackmanit.de/de/blog/165-what-is-fido2)
 
 [**The New OWASP Top 10 API Security Risks 2023 – What Has Changed?**](https://hackmanit.de/de/blog/169-owasp-api-2023)

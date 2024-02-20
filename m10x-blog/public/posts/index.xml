@@ -6,8 +6,21 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Mon, 11 Sep 2023 01:01:56 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 01:01:56 +0100</lastBuildDate>
         <atom:link href="https://www.m10x.de/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>(External: Redirect to hackmanit.de) Template Injection Vulnerabilities – Understand, Detect, Identify</title>
+            <link>https://www.m10x.de/posts/2024/02/external-redirect-to-hackmanit.de-template-injection-vulnerabilities-understand-detect-identify/</link>
+            <pubDate>Wed, 14 Feb 2024 01:01:56 +0100</pubDate>
+            
+            <guid>https://www.m10x.de/posts/2024/02/external-redirect-to-hackmanit.de-template-injection-vulnerabilities-understand-detect-identify/</guid>
+            <description>Normalerweise, haette der Redirect funktionieren sollen&amp;hellip; Naja, hier ist der Link zum Blogartikel:
+https://hackmanit.de/de/blog/178-template-injection-vulnerabilities-understand-detect-identify</description>
+            <content type="html"><![CDATA[<p>Normalerweise, haette der Redirect funktionieren sollen&hellip; Naja, hier ist der Link zum Blogartikel:</p>
+<p><a href="https://hackmanit.de/de/blog/178-template-injection-vulnerabilities-understand-detect-identify">https://hackmanit.de/de/blog/178-template-injection-vulnerabilities-understand-detect-identify</a></p>
+]]></content>
+        </item>
         
         <item>
             <title>(External: Redirect to hackmanit.de) How Does FIDO2 Try to Solve the World’s Password Problem?</title>

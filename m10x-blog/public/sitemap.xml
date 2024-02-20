@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.m10x.de/posts/2024/02/external-redirect-to-hackmanit.de-template-injection-vulnerabilities-understand-detect-identify/</loc>
+    <lastmod>2024-02-14T01:01:56+01:00</lastmod>
+  </url><url>
+    <loc>https://www.m10x.de/</loc>
+    <lastmod>2024-02-14T01:01:56+01:00</lastmod>
+  </url><url>
+    <loc>https://www.m10x.de/posts/</loc>
+    <lastmod>2024-02-14T01:01:56+01:00</lastmod>
+  </url><url>
+    <loc>https://www.m10x.de/tags/</loc>
+    <lastmod>2024-02-14T01:01:56+01:00</lastmod>
+  </url><url>
+    <loc>https://www.m10x.de/tags/template-injection/</loc>
+    <lastmod>2024-02-14T01:01:56+01:00</lastmod>
+  </url><url>
     <loc>https://www.m10x.de/posts/2023/09/external-redirect-to-hackmanit.de-how-does-fido2-try-to-solve-the-worlds-password-problem/</loc>
     <lastmod>2023-09-11T01:01:56+01:00</lastmod>
   </url><url>
-    <loc>https://www.m10x.de/</loc>
-    <lastmod>2023-09-11T01:01:56+01:00</lastmod>
-  </url><url>
     <loc>https://www.m10x.de/tags/mfa/</loc>
-    <lastmod>2023-09-11T01:01:56+01:00</lastmod>
-  </url><url>
-    <loc>https://www.m10x.de/posts/</loc>
-    <lastmod>2023-09-11T01:01:56+01:00</lastmod>
-  </url><url>
-    <loc>https://www.m10x.de/tags/</loc>
     <lastmod>2023-09-11T01:01:56+01:00</lastmod>
   </url><url>
     <loc>https://www.m10x.de/posts/2023/08/external-redirect-to-hackmanit.de-the-new-owasp-top-10-api-security-risks-2023-what-has-changed/</loc>
