@@ -18,7 +18,6 @@ I've pursued a master's degree in IT-Security @ Ruhr-Universität Bochum, with a
 * External pentesting
 * Internal pentesting, especially Active directory
 * Red Teaming
-* Container Security, especially docker
 
 **Certificates**
 
@@ -38,7 +37,6 @@ I've pursued a master's degree in IT-Security @ Ruhr-Universität Bochum, with a
 
 **Hobbys**
 * Selfhosting various services (utilizing Proxmox and Docker for Virtualization, Caddy as Reverse Proxy)
-* Creating and hacking AD labs
 * CTFs ([HackTheBox](https://www.hackthebox.eu/home/users/profile/19366))
-* Lockpicking
+* Lockpicking ([Green Belt](https://lpulocks.com/#/speedpicks?pickerId=enpsiAVxLvbJ02mBPyTazahvXL73&name=m10x))
 * Weightlifting
